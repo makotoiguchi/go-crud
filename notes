@@ -1,0 +1,3 @@
+git config --global --add url."git@github.com:".insteadOf "https://github.com/"
+
+go get github.com/joho/godotenv
