@@ -18,4 +18,6 @@ Modules:
 
 ```shell
 go get github.com/joho/godotenv
+
+go get github.com/gin-gonic/gin
 ```
